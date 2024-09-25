@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Tyrannosaurus Rex",
+    "scientificName": "Tyrannosaurus rex",
+    "period": "Late Cretaceous",
+    "age": {
+      "from": 68000000,
+      "to": 66000000,
+      "unit": "years ago"
+    },
+    "diet": "Carnivore",
+    "length": {
+      "value": 12,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 8000,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Bipedal",
+      "Large skull",
+      "Powerful jaws",
+      "Small arms",
+      "Long tail"
+    ],
+    "discoveredBy": "Barnum Brown",
+    "yearDiscovered": 1902,
+    "fossilLocations": [
+      "North America",
+      "Canada",
+      "Mongolia"
+    ]
+  }
+]
