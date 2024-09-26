@@ -8,7 +8,7 @@ export const GET = (request: NextRequest, context: RouteParams) => {
     return Response.json("No dinosaur name provided.");
   }
 
-  const dinosaur = data.find((item) =>
+  const dinosaur = (data as { name: string }[]).find((item) =>
     item.name.toLowerCase() === context.params.dinosaur.toLowerCase()
   );
 
