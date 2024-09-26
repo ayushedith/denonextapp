@@ -31,5 +31,277 @@
       "Canada",
       "Mongolia"
     ]
-  }
+  },
+  {
+    "name": "Tyrannosaurus Rex",
+    "scientificName": "Tyrannosaurus rex",
+    "period": "Late Cretaceous",
+    "age": {
+      "from": 68000000,
+      "to": 66000000,
+      "unit": "years ago"
+    },
+    "diet": "Carnivore",
+    "length": {
+      "value": 12,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 8000,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Bipedal",
+      "Large skull",
+      "Powerful jaws",
+      "Small arms",
+      "Long tail"
+    ],
+    "discoveredBy": "Barnum Brown",
+    "yearDiscovered": 1902,
+    "fossilLocations": [
+      "North America",
+      "Canada",
+      "Mongolia"
+    ]
+  },
+  {
+    "name": "Triceratops",
+    "scientificName": "Triceratops horridus",
+    "period": "Late Cretaceous",
+    "age": {
+      "from": 68000000,
+      "to": 66000000,
+      "unit": "years ago"
+    },
+    "diet": "Herbivore",
+    "length": {
+      "value": 9,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 6000,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Three horns",
+      "Large bony frill",
+      "Quadrupedal"
+    ],
+    "discoveredBy": "Othniel Charles Marsh",
+    "yearDiscovered": 1889,
+    "fossilLocations": [
+      "North America"
+    ]
+  },
+  {
+    "name": "Velociraptor",
+    "scientificName": "Velociraptor mongoliensis",
+    "period": "Late Cretaceous",
+    "age": {
+      "from": 75000000,
+      "to": 71000000,
+      "unit": "years ago"
+    },
+    "diet": "Carnivore",
+    "length": {
+      "value": 2,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 15,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Bipedal",
+      "Feathered",
+      "Sharp claws",
+      "Agile"
+    ],
+    "discoveredBy": "Peter Kaisen",
+    "yearDiscovered": 1924,
+    "fossilLocations": [
+      "Mongolia",
+      "China"
+    ]
+  },
+  {
+    "name": "Stegosaurus",
+    "scientificName": "Stegosaurus stenops",
+    "period": "Late Jurassic",
+    "age": {
+      "from": 155000000,
+      "to": 150000000,
+      "unit": "years ago"
+    },
+    "diet": "Herbivore",
+    "length": {
+      "value": 9,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 3000,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Plated back",
+      "Spiked tail",
+      "Quadrupedal"
+    ],
+    "discoveredBy": "Othniel Charles Marsh",
+    "yearDiscovered": 1877,
+    "fossilLocations": [
+      "USA"
+    ]
+  },
+  {
+    "name": "Brachiosaurus",
+    "scientificName": "Brachiosaurus altithorax",
+    "period": "Late Jurassic",
+    "age": {
+      "from": 154000000,
+      "to": 153000000,
+      "unit": "years ago"
+    },
+    "diet": "Herbivore",
+    "length": {
+      "value": 22,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 56000,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Long neck",
+      "Quadrupedal",
+      "Large body"
+    ],
+    "discoveredBy": "Elmer S. Riggs",
+    "yearDiscovered": 1900,
+    "fossilLocations": [
+      "USA",
+      "Africa"
+    ]
+  },
+  {
+    "name": "Spinosaurus",
+    "scientificName": "Spinosaurus aegyptiacus",
+    "period": "Late Cretaceous",
+    "age": {
+      "from": 112000000,
+      "to": 93000000,
+      "unit": "years ago"
+    },
+    "diet": "Carnivore",
+    "length": {
+      "value": 15,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 7000,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Sail-like structure on back",
+      "Semi-aquatic",
+      "Bipedal"
+    ],
+    "discoveredBy": "Ernst Stromer",
+    "yearDiscovered": 1912,
+    "fossilLocations": [
+      "Egypt",
+      "Morocco"
+    ]
+  },
+  {
+    "name": "Ankylosaurus",
+    "scientificName": "Ankylosaurus magniventris",
+    "period": "Late Cretaceous",
+    "age": {
+      "from": 70000000,
+      "to": 66000000,
+      "unit": "years ago"
+    },
+    "diet": "Herbivore",
+    "length": {
+      "value": 10,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 8000,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Armored body",
+      "Clubbed tail",
+      "Quadrupedal"
+    ],
+    "discoveredBy": "Barnum Brown",
+    "yearDiscovered": 1908,
+    "fossilLocations": [
+      "USA",
+      "Canada"
+    ]
+  },
+  {
+    "name": "Parasaurolophus",
+    "scientificName": "Parasaurolophus walkeri",
+    "period": "Late Cretaceous",
+    "age": {
+      "from": 76000000,
+      "to": 73000000,
+      "unit": "years ago"
+    },
+    "diet": "Herbivore",
+    "length": {
+      "value": 10,
+      "unit": "meters"
+    },
+    "weight": {
+      "value": 2500,
+      "unit": "kilograms"
+    },
+    "characteristics": [
+      "Crested skull",
+      "Bipedal and quadrupedal"
+    ],
+    "discoveredBy": "William Parks",
+    "yearDiscovered": 1922,
+    "fossilLocations": [
+      "Canada",
+      "USA"
+    ]
+  },
+  [
+    {
+      "name": "Diplodocus",
+      "scientificName": "Diplodocus carnegii",
+      "period": "Late Jurassic",
+      "age": {
+        "from": 154000000,
+        "to": 152000000,
+        "unit": "years ago"
+      },
+      "diet": "Herbivore",
+      "length": {
+        "value": 25,
+        "unit": "meters"
+      },
+      "weight": {
+        "value": 12000,
+        "unit": "kilograms"
+      },
+      "characteristics": [
+        "Long neck and tail",
+        "Whip-like tail",
+        "Quadrupedal"
+      ],
+      "discoveredBy": "Othniel Charles Marsh",
+      "yearDiscovered": 1878,
+      "fossilLocations": [
+        "USA"
+      ]
+    }
+  ]
 ]
